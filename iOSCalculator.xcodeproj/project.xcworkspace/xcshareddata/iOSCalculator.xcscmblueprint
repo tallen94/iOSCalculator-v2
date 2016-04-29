@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B5042F544E2E7507F138B434D43B11CCBBA4AA0B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B5042F544E2E7507F138B434D43B11CCBBA4AA0B" : 0,
+    "86A7372CBBA602B86158E03B1503899C0A2B3ABF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3B301A86-49BC-48E9-A4C9-5DB612D27663",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B5042F544E2E7507F138B434D43B11CCBBA4AA0B" : "iOSCalculatorv2\/",
+    "86A7372CBBA602B86158E03B1503899C0A2B3ABF" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOSCalculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOSCalculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tallen94\/iOSCalculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "86A7372CBBA602B86158E03B1503899C0A2B3ABF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tallen94\/iOSCalculator-v2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B5042F544E2E7507F138B434D43B11CCBBA4AA0B"
+    }
+  ]
+}
